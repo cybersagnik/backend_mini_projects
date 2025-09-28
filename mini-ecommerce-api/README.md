@@ -1,5 +1,5 @@
 # 🛒 Mini E-Commerce API
- A simple yet secure E-Commerce Backend API built with Node.js, Express, MongoDB, and JWT authentication.
+ A simple  E-Commerce Backend API built with Node.js, Express, MongoDB, and JWT authentication.
  This project is designed for learning, and as a foundation.
 
 ##  Features
