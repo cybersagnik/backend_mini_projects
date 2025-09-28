@@ -39,8 +39,8 @@
 
 ## Getting Started
 1. Clone Repository
-   - `git clone https://github.com/your-username/mini-ecommerce-api.git`
-   - `cd mini-ecommerce-api`
+   - `git clone https://github.com/cybersagnik/backend_mini_projects`
+   - `cd backend_mini_projects/mini-ecommerce-api`
 
 3. Install Dependencies
 `npm install`
@@ -84,7 +84,7 @@ https://github.com/user-attachments/assets/d0f237ee-5973-40f0-bb5d-0795d3ee4dab
 ## Future Add-ons
 
 - Role-based access (Admin vs User)
-- Swagger/OpenAPI documentation (/api/docs)
+- Rate Limiter for Api Access and Authentication 
 - Payment Gateway Integration (Stripe / Razorpay test mode)
 - Email notifications on order
 - Caching with Redis
